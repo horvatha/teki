@@ -9,7 +9,12 @@ Ajánlott sorrend:
 - parancssorban kísérletezés
 - negyzet.py
 - sokszog.py
+- tortvonal.py kiindulások
+  tortvonal(4, 90)
+  tortvonal(6, 60)
+  tortvonal(5, 144)
 - csillag.py
+- bolyongas.py
 
 A halado_peldak könyvtárban vannak bonyolultabb példák. Van ahol két
 teknős is mozog párhuzamosan, teknősobjektumokkal dolgoznak többnyire az
